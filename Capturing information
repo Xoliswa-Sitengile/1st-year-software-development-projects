@@ -1,0 +1,4 @@
+This program requires the user for the number of nations participating in a sporting competion
+It goes on to ask the user for the name of the nation, 
+the number of athletes for the natio and the number of athletes 
+that qualified for that specific nation, and stores all these details into one dimentional parrallel arrays.
